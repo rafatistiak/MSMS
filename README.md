@@ -1,6 +1,8 @@
 <h1 align="center"> Medicine Shop Management System (MSMS) </h1>
 <p align="center"> A complete e-commerce and inventory management system built with PHP and MySQL. </p>
 
+---
+
 ## 📚 Features
 
 - **Admin Panel:**
@@ -16,9 +18,28 @@
   - Secure Checkout with Prescription Image Uploads
   - Customer Profile Dashboard with Order History tracking
 
+---
+
+## 📸 Project Screenshots
+
+### Customer Storefront
+![Storefront](assets/home.png)
+
+### Admin Order Management
+![Admin Dashboard](assets/admin.png)
+
+### Secure Checkout & Prescription Upload
+![Checkout](assets/checkout.png)
+
+---
+
 ## 🌲 Project Tree
 ```bash
 ├── [MSMS]
+│   ├── [assets]
+│   │   ├── home.png
+│   │   ├── admin.png
+│   │   └── checkout.png
 │   ├── [includes]
 │   │   └── connection.php
 │   ├── [uploads]
@@ -36,6 +57,7 @@
 │   ├── medicine_add.php
 │   ├── medicine_edit.php
 │   ├── medicine_view.php
+│   ├── msms.sql
 │   ├── order_details.php
 │   ├── order_view.php
 │   ├── process_category_add.php
@@ -72,13 +94,3 @@ Username: admin
 
 Password: admin123
 
-## 📸 Project Screenshots
-
-### Customer Storefront
-![Storefront](assets/home.png)
-
-### Admin Order Management
-![Admin Dashboard](assets/admin.png)
-
-### Secure Checkout & Prescription Upload
-![Checkout](assets/checkout.png)
