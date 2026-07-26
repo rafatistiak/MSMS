@@ -71,3 +71,14 @@ Default Admin Credentials:
 Username: admin
 
 Password: admin123
+
+## 📸 Project Screenshots
+
+### Customer Storefront
+![Storefront](assets/home.png)
+
+### Admin Order Management
+![Admin Dashboard](assets/admin.png)
+
+### Secure Checkout & Prescription Upload
+![Checkout](assets/checkout.png)
