@@ -50,3 +50,24 @@
 │   ├── user_login_process.php
 │   ├── user_logout.php
 │   └── user_profile.php
+
+⚡ Run Locally
+Clone the project:
+
+Bash
+git clone [https://github.com/rafatistiak/MSMS.git](https://github.com/rafatistiak/MSMS.git)
+Place the MSMS folder inside your xampp/htdocs directory.
+
+Start XAMPP (Apache and MySQL).
+
+Go to http://localhost/phpmyadmin and create a database named MSMS.
+
+Import your database SQL file to generate the tables.
+
+Access the site at http://localhost/MSMS.
+
+Default Admin Credentials:
+
+Username: admin
+
+Password: admin123
